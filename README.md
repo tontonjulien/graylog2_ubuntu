@@ -15,22 +15,24 @@ It is based on @mrlesmithjr 's script https://github.com/mrlesmithjr
 
 1. Install Git
 --------------
+```bash
 sudo apt-get -y install git
+```
 
 2. Clone the Rep
 ----------------
+```bash
 cd ~
-
 git clone https://github.com/tontonjulien/graylog2_ubuntu.git
+```
 
 3. Make the script executable
 -----------------------------
+```bash
 cd graylog2_ubuntu
-
 chmod +x install_graylog2_ubuntu.sh
-
 sudo ./install_graylog2_ubuntu.sh
-
+```
 4. Answer to the questions
 --------------------------
 Password, email config etc...
