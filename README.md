@@ -7,7 +7,7 @@ This installation script will perform an automated install of Graylog2 (Server &
 The script allows to set the Email Transport config.
 
 
-It is based on @mrlesmithjr 's script http://EveryThingShouldBeVirtual.com
+It is based on @mrlesmithjr 's script https://github.com/mrlesmithjr
 
 ----------------------
 | Installation steps |
