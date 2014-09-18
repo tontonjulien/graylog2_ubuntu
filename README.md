@@ -26,7 +26,9 @@ git clone https://github.com/tontonjulien/graylog2_ubuntu.git
 3. Make the script executable
 -----------------------------
 cd graylog2_ubuntu
+
 chmod +x install_graylog2_ubuntu.sh
+
 sudo ./install_graylog2_ubuntu.sh
 
 4. Answer to the questions
