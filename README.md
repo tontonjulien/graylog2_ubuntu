@@ -20,6 +20,7 @@ sudo apt-get -y install git
 2. Clone the Rep
 ----------------
 cd ~
+
 git clone https://github.com/tontonjulien/graylog2_ubuntu.git
 
 3. Make the script executable
