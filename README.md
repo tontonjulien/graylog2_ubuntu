@@ -43,3 +43,7 @@ In your browser: localhost:9000
 You should see the login page
 
 Enjoy!!
+
+### Contributing
+
+You can contribute by submitting [issues tickets](https://github.com/tontonjulien/graylog2_ubuntu/issues) and proposing [pull requests](https://github.com/tontonjulien/graylog2_ubuntu/pulls).
